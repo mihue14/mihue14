@@ -16,7 +16,9 @@
    <a href="https://reactjs.org/" target="_blank"> <img src="https://icongr.am/devicon/react-original.svg?size=40&color=currentColor" alt="react"                 width="40" height="40"/> </a>
    <a href="https://nextjs.org/" target="_blank"> <img src="https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png" alt="next" width="40" height="40"/> 
     </a>
-    <a href="https://nestjs.com/" target="_blank"> <img src="https://docs.nestjs.com/assets/logo-small.svg" alt="next" width="40" height="40"/> 
+    <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://i0.wp.com/ciberninjas.com/wp-content/uploads/2022/09/logotipo-typescript.webp?fit=1920%2C1080&ssl=1" alt="typescript" width="40" height="40"/> 
+    </a>
+    <a href="https://nestjs.com/" target="_blank"> <img src="https://docs.nestjs.com/assets/logo-small.svg" alt="nest" width="40" height="40"/> 
     </a>
     <a href="https://es.redux.js.org/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/redux_original_logo_icon_146365.png" alt="redux" width="40" height="40"/> 
     </a>
