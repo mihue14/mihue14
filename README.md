@@ -1,7 +1,7 @@
 # ¡Hola! soy Samir 👋
 
     
-   <img src="https://user-images.githubusercontent.com/67916064/99156868-3bd0da80-26a3-11eb-8d30-a83f596c9c65.jpg" alt="Samir José LinkedIn Profile" width="440px" align="right">     
+   <img src="https://user-images.githubusercontent.com/67916064/99156868-3bd0da80-26a3-11eb-8d30-a83f596c9c65.jpg" alt="Samir José LinkedIn Profile" width="440px" align="right" height="250px">     
 
 
 ## Full-Stack Developer 
@@ -48,31 +48,31 @@
       </a>   
       <a align='right' href="mailto:samirjose675@gmail.com">
          <img alt="Email" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="30" width="30"/>
+         <label>samirjose675@gmail.com</label>
       </a>  
    </p>
-   <p><label>samirjose675@gmail.com</label></p>
+
    
    
   ******
-### - :computer: Projects
+### - :computer: Proyectos
 
-#### Henry Comics
+#### PawsFounding
 
-  - Henry Comics es una tienda online de comics desarrollada en React Hooks con Redux en front-end y Express, PostgreSQL y Sequelize en el back-end.
-    Ademas se integró MercadoPago como plataforma de pago, autenticacion con Google y Facebook, y una "Wishlist", una feature para que el administrador del sitio pueda saber que     desean comprar sus clientes
+  - Paws Founding es una plataforma de crowdfounding que nace con el único objetivo de proporcionar ayuda monetaria y de audiencia a las protectoras de animales que dedican su tiempo a rescatar a estas criaturas de forma segura y transparente, además de proporcionar herramientas adecuadas para gestionar su perfil online. Les permitimos recibir donaciones de forma coherente y mostrar su labor a través de sencillos posts, facilitando que la gente se sume a su causa.
 <p align='center'>     
-   <a align='center' href="https://henry-comics.vercel.app/">
-      <img src="https://user-images.githubusercontent.com/67916064/99194199-c45f8180-275c-11eb-8cc0-d509b16762e4.png" alt="Henry Comics Repo"   width="50%">  
+   <a align='center' href="https://pf-henry-grupo05.vercel.app/">
+      <img src="https://res.cloudinary.com/dr1vf8gcc/image/upload/v1670141202/jaqwdtqgoauxn4nqurom.jpg" alt="PawsFounding"   width="50%">  
     </a>
 </p>
 
-#### Real Estate Market
+#### Click&Read
 
-  - Real estate Market es un proyecto realizado en VueJs, Nuxt(Server-Side Rendering) y Firebase. Es una app donde un usuario puede publicar, vender y comprar propiedades        inmobiliarias a traves de la gestion de un agente inmobiliario verificado. 
+  - CLICK AND READ es un e-commerce de libros, donde cada usuario tendra la posibilidad tanto de comprar como vender libros ya sean nuevos o usados.
 
 <p align='center'>     
-   <a align='center' href="https://usla-market.web.app/">
-      <img src="https://user-images.githubusercontent.com/67916064/109821155-75a6fc00-7c14-11eb-9156-0b27ed7d9a80.png" alt="Henry Comics Repo"   width="50%">  
+   <a align='center' href="https://ecommerce-lac-nu.vercel.app/">
+      <img src="https://res.cloudinary.com/dr1vf8gcc/image/upload/v1670141561/i78ouf3iizthn6lrs2kz.jpg" alt="Click&Read"   width="50%">  
     </a>
 </p>
 
