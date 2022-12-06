@@ -39,6 +39,16 @@
  </p>
   
   
+******
+### - 🚀 Sobre mí: ...
+   <p>
+      Soy un desarrollador Full-Stack enamorado de la programación y el mundo IT. Busco un aprendizaje constante para mejorar las habilidades que ya tengo y adquirir       conocimientos en nuevos lenguajes de programación. Soy un profesional a la hora de trabajar y también considero imprescindibles las relaciones humanas y el           trabajo en equipo.
+
+    🌱Actualmente estoy aprendiendo Java y Springboot
+
+    🔭Actualmente estoy trabajando en proyectos personales y mi cartera para crecer y mejorar mis habilidades.
+   </p>  
+  
   
 ******
 ### - 📫 Contacto: ...
