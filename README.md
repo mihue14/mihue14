@@ -67,6 +67,16 @@
   ******
 ### - :computer: Proyectos
 
+#### Aukany Barbería
+
+  - Aunaky Barbería es una app donde se muestra información de una barbería de mi ciudad, con la posibilidad de realizar reservas ¡online!.
+
+<p align='center'>     
+   <a align='center' href="https://aukany.vercel.app/">
+      <img src="https://res.cloudinary.com/dr1vf8gcc/image/upload/v1672885808/zg2dboiim4fswkjqvcdr.png" alt="Aukany"   width="50%">  
+    </a>
+</p>
+
 #### PawsFounding
 
   - Paws Founding es una plataforma de crowdfounding que nace con el único objetivo de proporcionar ayuda monetaria y de audiencia a las protectoras de animales que dedican su tiempo a rescatar a estas criaturas de forma segura y transparente, además de proporcionar herramientas adecuadas para gestionar su perfil online. Les permitimos recibir donaciones de forma coherente y mostrar su labor a través de sencillos posts, facilitando que la gente se sume a su causa.
@@ -83,16 +93,6 @@
 <p align='center'>     
    <a align='center' href="https://ecommerce-lac-nu.vercel.app/">
       <img src="https://res.cloudinary.com/dr1vf8gcc/image/upload/v1670141561/i78ouf3iizthn6lrs2kz.jpg" alt="Click&Read"   width="50%">  
-    </a>
-</p>
-
-#### Aukany Barbería
-
-  - Aunaky Barbería es una app donde se muestra información de una barbería de mi ciudad, con la posibilidad de realizar reservas ¡online!.
-
-<p align='center'>     
-   <a align='center' href="https://aukany.vercel.app/">
-      <img src="https://res.cloudinary.com/dr1vf8gcc/image/upload/v1672885808/zg2dboiim4fswkjqvcdr.png" alt="Aukany"   width="50%">  
     </a>
 </p>
 
